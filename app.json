@@ -1,0 +1,33 @@
+{
+  "id": "a82ceb3f-76cc-4249-b18a-7071e1023945",
+  "name": "Filter on Orders in Case",
+  "publisher": "Mark Brummel",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "5452f323-069e-499a-9753-5d2c07eef904",
+      "name": "PrintVis",
+      "publisher": "NovaVision Software A/S",
+      "version": "17.6.2.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://www.printvis.com",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
